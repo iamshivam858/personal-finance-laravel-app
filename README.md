@@ -42,7 +42,8 @@ A clean and simple **personal finance management app** that supports multiple us
 
 ## 🖼️ Screenshots
 
-> _(Add screenshots later here if needed – dashboard, transactions, charts, etc.)_
+![Dashboard Screenshot](assets/dashboard1.png)
+![Dashboard Screenshot](assets/dashboard2.png)
 
 ---
 
