@@ -42,8 +42,8 @@ A clean and simple **personal finance management app** that supports multiple us
 
 ## 🖼️ Screenshots
 
-![Dashboard Screenshot](assets/dashboard1.png)
-![Dashboard Screenshot](assets/dashboard2.png)
+![Dashboard Screenshot](public/assets/dashboard1.png)
+![Dashboard Screenshot](public/assets/dashboard2.png)
 
 ---
 
